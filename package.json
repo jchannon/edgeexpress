@@ -1,0 +1,11 @@
+{
+  "name": "hello-world",
+  "description": "hello world test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "edge": "~0.7.14",
+    "edge-sql": "~0.1.1"
+  }
+}
